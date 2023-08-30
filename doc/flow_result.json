@@ -1,0 +1,46 @@
+{
+  "event":"task",
+  "action":"status",
+  "task":{
+    "pipelineId":"2227567",
+    "pipelineName":"【测试】数据大屏接口",
+    "stageName":"部署",
+    "taskName":"主机部署",
+    "buildNumber":"189",
+    "statusCode":"SUCCESS",
+    "statusName":"运行成功",
+    "pipelineUrl":"https://flow.aliyun.com/pipelines/2227567/builds/189",
+    "message":"流水线[【测试】数据大屏接口] - 阶段[部署] - 任务[主机部署] - 运行成功",
+    "executorId":"625635314e333f028168716e",
+    "executorName":"张双建",
+    "pipelineTags":"测试",
+    "pipelineEnvironment":"预发环境",
+    "flowInstId":"98545446",
+    "pipelineInstId":"48541752",
+    "pipelineMark":"验证自动化平台服务"
+  },
+  "pipeline":null,
+  "artifacts":[
+
+  ],
+  "sources":[
+    {
+      "name":"data-analysis_tsN3",
+      "sign":"electric-bicycle-server_SnJd",
+      "type":"codeup",
+      "data":{
+        "repo":"https://codeup.aliyun.com/612b6ba176b0c8e58d7986b4/electric-bicycle-platform/data-analysis.git",
+        "branch":"test",
+        "commitId":"2e5067d4bb34e1a7ea0e8b78c41d585f2186371f",
+        "privousCommitId":null,
+        "commitMsg":"[{\"commitMsg\": \"Merge%20%238501125%20into%20test%20from%20dev\", \"commitId\": \"2e5067d4bb34e1a7ea0e8b78c41d585f2186371f\", \"commitAuthor\": \"\\u6731\\u8a89\", \"commitTime\": \"Fri Aug 25 17:34:46 2023 +0800\"}]",
+        "args":[
+
+        ]
+      }
+    }
+  ],
+  "globalParams":[
+
+  ]
+}

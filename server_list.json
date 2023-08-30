@@ -1,0 +1,26 @@
+[
+    {
+        "serverName": "electric-bicycle-server",
+        "projectId": "a9cdbc0b-a5fd-497e-9f64-5891a55fdfc1",
+        "testPlanId": "5851e4b7-5e34-4f82-8d81-bd4f1b24f982",
+        "delayedCall": 2
+    },
+    {
+        "serverName": "eBikeLicenceMaApi",
+        "projectId": "cef6cd09-febb-11ed-85d4-0242ac1e0a05",
+        "testPlanId": "4b71eb72-9047-4cd3-a509-1f1540c3c749",
+        "delayedCall": 2
+    },
+    {
+        "serverName": "iot-device-manage",
+        "projectId": "270233aa-4266-4e92-9823-95e2f7bbd7ce",
+        "testPlanId": "220fe62a-f473-45a4-a7b1-858fa488c8f7",
+        "delayedCall": 2
+    },
+    {
+        "serverName": "data-analysis",
+        "projectId": "13a31faf-6604-4dc9-9ab7-287639602d1c",
+        "testPlanId": "f7a66734-66cb-4a4e-bd96-d745837162e5",
+        "delayedCall": 2
+    }
+    ]
